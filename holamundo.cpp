@@ -2,7 +2,7 @@
 int main()
 {
 	std::cout <<"Adios mundo" << std::endl;
-    std::cout <<"Edward te manda saludos" << std::endl;
+    std::cout <<"Cadena cara de oso" << std::endl;
 	
 	return 0;
 }
